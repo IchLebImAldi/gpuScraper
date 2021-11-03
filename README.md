@@ -62,13 +62,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 This project started as a friend of mine asked me to write a script to get him a GPU cheaper than average.
 GPU Scraper got writtin within 2 hours, so not one of the biggest projects.
 
 This scraper makes use of the following telegram group to receive all GPUs:
-  * [HWL_GPU_Verfuegbarkeitshinweise](https://t.me/s/HWL_GPU_Verfuegbarkeitshinweise)
+  * [HWL GPU Verfuegbarkeitshinweise](https://t.me/s/HWL_GPU_Verfuegbarkeitshinweise)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -76,8 +74,6 @@ This scraper makes use of the following telegram group to receive all GPUs:
 
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Python](https://pyhton.org)
 
@@ -88,7 +84,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Implementation to your project
 
 ### Prerequisites
 
@@ -103,8 +98,6 @@ Implementation to your project
   
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Clone the repo
    ```sh
@@ -134,7 +127,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Brand Laurent - [@DailyHartzer](https://twitter.com/DailyHartzer) - laurentbrand.com
+Brand Laurent - [@DailyHartzer](https://twitter.com/DailyHartzer) - [laurentbrand.com](https://laurentbrand.com)
 
 Project Link: [https://github.com/IchLebImAldi/gpuScraper.git](https://github.com/IchLebImAldi/gpuScraper.git)
 
