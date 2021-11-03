@@ -24,7 +24,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">GPU Scraper</h3>
+  <h2 align="center">GPU Scraper</h3>
 
   <p align="center">
     A Script to receive news about cheap GPUs through telegram
