@@ -110,7 +110,6 @@ This scraper makes use of the following telegram group to receive all GPUs:
    TOKEN = '123456789'
    CHAT_ID = '-123456789'
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -119,8 +118,6 @@ This scraper makes use of the following telegram group to receive all GPUs:
 ## Usage
 
 Use this script to receive cheapest GPUs around Germany. 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
