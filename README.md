@@ -63,7 +63,7 @@
 ## About The Project
 
 This project started as a friend of mine asked me to write a script to get him a GPU cheaper than average.
-GPU Scraper got writtin within 2 hours, so not one of the biggest projects.
+GPU Scraper got written within 2 hours, so not one of the biggest projects.
 
 This scraper makes use of the following telegram group to receive all GPUs:
   * [HWL GPU Verfuegbarkeitshinweise](https://t.me/s/HWL_GPU_Verfuegbarkeitshinweise)
