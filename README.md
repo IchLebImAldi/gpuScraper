@@ -63,7 +63,7 @@
 ## About The Project
 
 This project started as a friend of mine asked me to write a script to get him a GPU cheaper than average.
-GPU Scraper got writtin within 2 hours, so not one of the biggest projects.
+GPU Scraper got written within 2 hours, so not one of the biggest projects.
 
 This scraper makes use of the following telegram group to receive all GPUs:
   * [HWL GPU Verfuegbarkeitshinweise](https://t.me/s/HWL_GPU_Verfuegbarkeitshinweise)
@@ -75,7 +75,7 @@ This scraper makes use of the following telegram group to receive all GPUs:
 
 ### Built With
 
-* [Python](https://pyhton.org)
+* [Python](https://python.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,7 +110,6 @@ This scraper makes use of the following telegram group to receive all GPUs:
    TOKEN = '123456789'
    CHAT_ID = '-123456789'
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -119,8 +118,6 @@ This scraper makes use of the following telegram group to receive all GPUs:
 ## Usage
 
 Use this script to receive cheapest GPUs around Germany. 
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
