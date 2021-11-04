@@ -48,7 +48,7 @@ for article in soup.find_all('div', 'tgme_widget_message_wrap js-widget_message_
     
     if is_new_post(art):
         print(art)
-        if int(art.price) < 580:
+        if int(art.price.split(".")[0]) < 580:
             send_msg(art.prettify())
         
         articles.append(art)
