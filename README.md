@@ -75,7 +75,7 @@ This scraper makes use of the following telegram group to receive all GPUs:
 
 ### Built With
 
-* [Python](https://pyhton.org)
+* [Python](https://python.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
