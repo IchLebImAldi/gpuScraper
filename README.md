@@ -101,7 +101,7 @@ This scraper makes use of the following telegram group to receive all GPUs:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/IchLebImAldi/gpuScraper.git
+   git clone https://github.com/LaurenzJ/gpuScraper.git
    ```
 2. Create a `secret.py` file
 
@@ -126,7 +126,7 @@ Use this script to receive cheapest GPUs around Germany.
 
 Brand Laurent - [@DailyHartzer](https://twitter.com/DailyHartzer) - [laurentbrand.com](https://laurentbrand.com)
 
-Project Link: [https://github.com/IchLebImAldi/gpuScraper.git](https://github.com/IchLebImAldi/gpuScraper.git)
+Project Link: [https://github.com/LaurenzJ/gpuScraper.git](https://github.com/LaurenzJ/gpuScraper.git)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
