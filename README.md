@@ -124,7 +124,7 @@ Use this script to receive cheapest GPUs around Germany.
 <!-- CONTACT -->
 ## Contact
 
-Brand Laurent - [@DailyHartzer](https://twitter.com/DailyHartzer) - [laurentbrand.com](https://laurentbrand.com)
+Brand Laurent - [@DailyLaurenzJ](https://twitter.com/DailyLaurenzJ) - [laurentbrand.com](https://laurentbrand.com)
 
 Project Link: [https://github.com/LaurenzJ/gpuScraper.git](https://github.com/LaurenzJ/gpuScraper.git)
 
