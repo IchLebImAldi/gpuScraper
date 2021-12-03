@@ -29,7 +29,6 @@
   <p align="center">
     A Script to receive news about cheap GPUs through telegram
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
