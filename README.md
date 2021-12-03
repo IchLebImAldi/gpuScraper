@@ -110,7 +110,7 @@ This scraper makes use of the following telegram group to receive all GPUs:
    TOKEN = '123456789'
    CHAT_ID = '-123456789'
    ```
-4. Follow these instructions to get the CHAT_ID - ['sean-bradley.medium.com/get-telegram-chat-id-80b575520659'](https://sean-bradley.medium.com/get-telegram-chat-id-80b575520659)
+4. Follow these instructions to get the CHAT_ID - [medium.com](https://sean-bradley.medium.com/get-telegram-chat-id-80b575520659)
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
